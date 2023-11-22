@@ -17,6 +17,9 @@
     "mongoose": "^8.0.0",
     "rebuild": "^0.1.2"
   },
+  "engines": {
+    "node": ">=15.0.0"
+  },
   "devDependencies": {
     "nodemon": "^3.0.1"
   },
